@@ -1,0 +1,1 @@
+https://github.com/nordic-institute/X-Road/tree/e2ada7804fba5e20a721618854e924aaf5b3425b/ansible#package-repository

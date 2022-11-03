@@ -1,0 +1,1 @@
+https://github.com/nordic-institute/X-Road/blob/master/doc/Manuals/ug-sigdoc_x-road_signed_document_download_and_verification_manual.md
